@@ -1,6 +1,6 @@
 import { Box, Container, Stack, VStack } from "@chakra-ui/react";
 import { useState } from "react";
-import MainHeader from "./component/mainHeader";
+import MainHeader from "./component/MainHeader";
 import Header from "./component/Header";
 import TotalBalance from "./component/TotalBalance";
 import AddBalance from "./component/AddBalance";
