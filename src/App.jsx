@@ -4,7 +4,7 @@ import MainHeader from "./component/MainHeader";
 import Header from "./component/Header";
 import TotalBalance from "./component/TotalBalance";
 import AddBalance from "./component/AddBalance";
-import Functions from "./component/functions";
+import Functions from "./component/Functions";
 import Goal from "./component/Goal";
 import History from "./component/History";
 import Cart from "./component/Cart";
